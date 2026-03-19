@@ -7,21 +7,21 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Alvaro Andres Salazar Herrera] | Líder (Arquitecto) | `@AlvaroSaGit` |
 | [Juan Manuel Rodriguez Carreño] | Desarrollador | `@Juan788800` |
-| [] | Desarrollador | `@` |
+| [Leidy Esmeralda Duarte Prada] | Desarrollador | `@Leidyesme` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [Ej: correo corporativo / Microsoft Teams]
-* **Urgencias o bloqueos rápidos:** [Ej: Grupo de WhatsApp]
+* **Comunicación Oficial y Archivos:** [WhatsApp]
+* **Urgencias o bloqueos rápidos:** [Grupo de WhatsApp]
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
-* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Días de la semana] a las [Hora] de forma [Presencial/Virtual].
-* **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [Ej: 4 horas] durante el horario hábil.
+* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Martes, Viernes] a las [20:00] de forma [Virtual].
+* **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [2 Horas] durante el horario hábil.
 
 ## 4. Reglas de Desarrollo
 * **Prohibido el "Push" a Main:** Nadie, bajo ninguna circunstancia, subirá código directamente a `main` o `develop` sin pasar por un Pull Request.
-* **Regla del Bloqueo (Timeboxing):** Si un desarrollador lleva más de [Ej: 2 horas] atascado en el mismo error, **debe** levantar la mano y pedir ayuda al equipo. No se permite perder días enteros en silencio.
+* **Regla del Bloqueo (Timeboxing):** Si un desarrollador lleva más de [2 Horas] atascado en el mismo error, **debe** levantar la mano y pedir ayuda al equipo. No se permite perder días enteros en silencio.
 * **Calidad antes que velocidad:** Ningún código se envía a revisión si tiene `console.log`, errores en la terminal, o si rompe el diseño en dispositivos móviles.
 
 ## 5. Resolución de Conflictos y Ausencias
