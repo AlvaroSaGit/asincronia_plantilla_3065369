@@ -12,7 +12,7 @@ for (let i = 0; i <10000; i++){
     console.log("numero de fila " + i)
     clientes_atendidos += i * 2;
 }
-    console.log("Fin. buenos dias en que lo puedo atender. clientes atendidos:" + clientes_atendidos);
+    console.log("Fin. Buenos dias en que lo puedo atender. clientes atendidos:" + clientes_atendidos);
         
 
 
